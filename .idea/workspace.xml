@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba4d13a-70ba-433e-a506-5c384189795d" name="Default" comment="" />
+    <list default="true" id="2ba4d13a-70ba-433e-a506-5c384189795d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes/Song.php" afterPath="$PROJECT_DIR$/classes/Song.php" />
+    </list>
     <ignored path="PHP-OOP-A2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenreQuery.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GenreQuery.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="52" selection-start="439" selection-end="439" vertical-scroll-proportion="0.46961325" vertical-offset="0" max-vertical-offset="543">
+            <state line="18" column="8" selection-start="310" selection-end="439" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="408">
               <folding>
                 <marker date="1390963585319" expanded="true" signature="241:261" placeholder="SELECT * FRO..genres..." />
               </folding>
@@ -64,16 +66,19 @@
       <file leaf-file-name="Song.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classes/Song.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="19" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="272">
-              <folding />
+            <state line="43" column="28" selection-start="772" selection-end="772" vertical-scroll-proportion="-15.153846" vertical-offset="252" max-vertical-offset="901">
+              <folding>
+                <marker date="1390964468552" expanded="true" signature="845:975" placeholder="INSERT INTO ..." />
+                <marker date="1390964468552" expanded="true" signature="856:862" placeholder="SELECT * FRO..songs..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add-song-process.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="add-song-process.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/add-song-process.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="14" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="544">
+            <state line="22" column="42" selection-start="468" selection-end="468" vertical-scroll-proportion="0.53222835" vertical-offset="0" max-vertical-offset="543">
               <folding />
             </state>
           </provider>
@@ -136,11 +141,11 @@
         <option value="$PROJECT_DIR$/db.php" />
         <option value="$PROJECT_DIR$/classes/Book.php" />
         <option value="$PROJECT_DIR$/classes/SongQuery.php" />
-        <option value="$PROJECT_DIR$/classes/Song.php" />
         <option value="$PROJECT_DIR$/classes/GenreMenu.php" />
         <option value="$PROJECT_DIR$/classes/ArtistMenu.php" />
         <option value="$PROJECT_DIR$/classes/ArtistQuery.php" />
         <option value="$PROJECT_DIR$/classes/GenreQuery.php" />
+        <option value="$PROJECT_DIR$/classes/Song.php" />
       </list>
     </option>
   </component>
@@ -308,26 +313,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add-song-process.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="14" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="18" selection-start="174" selection-end="174" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="357">
           <folding>
             <element signature="e#6#90#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Song.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="19" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="272">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -373,10 +364,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classes/GenreQuery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="52" selection-start="439" selection-end="439" vertical-scroll-proportion="0.46961325" vertical-offset="0" max-vertical-offset="543">
+        <state line="18" column="8" selection-start="310" selection-end="439" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="408">
           <folding>
             <marker date="1390963585319" expanded="true" signature="241:261" placeholder="SELECT * FRO..genres..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Song.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="28" selection-start="772" selection-end="772" vertical-scroll-proportion="-15.153846" vertical-offset="252" max-vertical-offset="901">
+          <folding>
+            <marker date="1390964468552" expanded="true" signature="845:975" placeholder="INSERT INTO ..." />
+            <marker date="1390964468552" expanded="true" signature="856:862" placeholder="SELECT * FRO..songs..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-song-process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="42" selection-start="468" selection-end="468" vertical-scroll-proportion="0.53222835" vertical-offset="0" max-vertical-offset="543">
+          <folding />
         </state>
       </provider>
     </entry>
